@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.streamlit/
+models/*.pkl
+.DS_Store
+data/synthetic_metrics.csv
