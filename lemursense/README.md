@@ -2,9 +2,9 @@
 
 **A biomimetic, explainable AI system for IT anomaly monitoring**, modeled on the vigilance and foraging behavior of ring-tailed lemurs.
 
-LemurSense doesn't watch every metric on every host with equal intensity all the time. Like a lemur troop, it allocates limited "attention" adaptively — watching more closely where risk is rising, relaxing where things are calm, and reacting as a group when one member sounds an alarm.
+LemurSense doesn't watch every metric on every host with equal intensity all the time. Like a lemur troop, it allocates limited "attention" adaptively - watching more closely where risk is rising, relaxing where things are calm, and reacting as a group when one member sounds an alarm.
 
----
+
 
 ## Why lemurs?
 
